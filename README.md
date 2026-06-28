@@ -135,7 +135,7 @@ http://localhost:3000
 The frontend for this project is available at:
 
 ```text
-https://github.com/yourusername/taskzen-frontend
+https://github.com/RishikeshKarkhanis/taskzen-frontend
 ```
 
 ---
