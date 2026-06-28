@@ -158,7 +158,3 @@ https://github.com/yourusername/taskzen-frontend
 B.Tech Computer Science Engineering (AI & ML)
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
